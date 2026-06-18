@@ -110,13 +110,6 @@ Top 5 fraud predictors (TreeExplainer): `log_amt`, `C14`, `C13`, `card6_risk`, `
 
 ![Dashboard]([dashboard_preview.png](https://github.com/NitinPandey12465/Financial-Fraud-Detection-System/blob/main/fraud_project.pbix))
 
----
-
-## Live Demo
-🚀 **Try it live:** [fraud-risk-scorer.huggingface.co](#) — input transaction details, get instant fraud probability with SHAP-based explanation
-
----
-
 ## How to Run
 ```bash
 pip install pandas numpy scikit-learn xgboost lightgbm shap imbalanced-learn sqlalchemy psycopg2-binary
