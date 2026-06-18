@@ -108,7 +108,7 @@ Top 5 fraud predictors (TreeExplainer): `log_amt`, `C14`, `C13`, `card6_risk`, `
 ## Dashboard Preview
 *4-page Power BI dashboard — Fraud Overview, Risk Segmentation, Model Performance, Fraud Rules & Recommendations*
 
-![Dashboard](dashboard_preview.png)
+![Dashboard]([dashboard_preview.png](https://github.com/NitinPandey12465/Financial-Fraud-Detection-System/blob/main/fraud_project.pbix))
 
 ---
 
